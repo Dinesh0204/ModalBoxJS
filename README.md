@@ -30,5 +30,8 @@ Customize the behavior of the modal box by modifying the JavaScript code in moda
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/Dinesh0204/ModalBoxJS/assets/72650101/ded67dca-bf6a-443e-850f-ba62c1bbf5af)
+![image](https://github.com/Dinesh0204/ModalBoxJS/assets/72650101/809a4b94-4d8a-4568-a238-00a889795fba)
+
+
 
